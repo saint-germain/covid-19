@@ -1,0 +1,4 @@
+pymc3
+pandas
+numpy
+matplotlib
